@@ -4,9 +4,7 @@
 A Flash Card App that has question about things that I'm interested in.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+![flash-cards-gif](https://user-images.githubusercontent.com/25695835/46911899-49e92580-cf36-11e8-95ac-a6dbc1ffc862.gif)
 
 ## Required
 - [x] Create New Project in Android Studio
