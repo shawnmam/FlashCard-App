@@ -28,6 +28,16 @@ public class FlashCards extends AppCompatActivity {
         });
 
 
+        findViewById(R.id.flash_card_answer).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                //Makes the question visible and then makes the answer invisible
+                findViewById(R.id.flash_card_question).setVisibility(View.VISIBLE);
+                findViewById(R.id.flash_card_answer).setVisibility(View.INVISIBLE);
+
+            }
+        });
 
 
 
