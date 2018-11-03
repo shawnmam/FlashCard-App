@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Shawn\'s Flash Cards</string>
+    <string name="who_is_the_44th_president_of_the_united_states">Who is the 44th President of The United States ?</string>
+    <string name="Barack_Obama">Barack Obama</string>
+    <string name="UserQuestion">Enter Your Question</string>
+    <string name="UserAnswer">Enter Your Answer</string>
+    <string name="submit">Submit</string>
+
 </resources>
