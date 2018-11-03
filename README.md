@@ -4,7 +4,6 @@
 Make Your Own Flash Cards
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 ![flash-cards-update-gif](https://user-images.githubusercontent.com/25695835/47949068-46ccce00-df13-11e8-9e2d-718b83a8a95a.gif)
 
