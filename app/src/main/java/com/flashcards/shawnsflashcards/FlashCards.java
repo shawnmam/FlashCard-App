@@ -2,10 +2,10 @@ package com.flashcards.shawnsflashcards;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class FlashCards extends AppCompatActivity {
 
@@ -83,10 +83,14 @@ public class FlashCards extends AppCompatActivity {
 
         }
 
-        Snackbar.make(findViewById(R.id.flash_card_question),
-                "Here's your FlashCard",
-                Snackbar.LENGTH_SHORT)
-                .show();
+//        Snackbar.make(findViewById(R.id.flash_card_question),
+//                "Here's your FlashCard",
+//                Snackbar.LENGTH_SHORT)
+//                .show();
+
+        Toast.makeText(getApplicationContext(), "Finished Making Flash Card", Toast.LENGTH_SHORT).show();
+
+
     }
 
 
